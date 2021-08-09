@@ -3,7 +3,7 @@
 
 An automated Capital Asset Pricing and 3 Factor Model which 
 helps the end user understand the systematic risk 
-and expected return of the stock with a help of an automated Dashboard on Tableau.
+and expected return of the stock through an automated Dashboard on Tableau.
 
 
 
