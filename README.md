@@ -3,7 +3,7 @@
 
 An automated Capital Asset Pricing and 3 Factor Model which 
 helps the end user understand the systematic risk 
-and expected return of the stock.
+and expected return of the stock with a help of an automated Dashboard on Tableau.
 
 
 
@@ -24,14 +24,10 @@ Project built on Google Colab and connected to Tableau Public.
 
 [Documentation](https://linktodocumentation)
 
-  
-## Demo
-
-
-  
+    
 ## Feedback
 
-If you have any feedback, please reach out to us at https://www.linkedin.com/in/karannshetty
+If you have any feedback, please reach out at https://www.linkedin.com/in/karannshetty
 
 ## Tech Stack
 
